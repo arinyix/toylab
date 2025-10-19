@@ -103,7 +103,7 @@ export default function VisitsPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900">Localização Central</h3>
-                    <p className="text-gray-600">Facilmente acessível em São Paulo</p>
+                    <p className="text-gray-600">Facilmente acessível em Santarém</p>
                   </div>
                 </div>
               </div>
